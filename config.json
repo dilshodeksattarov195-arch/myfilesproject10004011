@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "searchcecrypt",
+        "uuid": 11034261,
+        "checksum": "kpjfx8"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
